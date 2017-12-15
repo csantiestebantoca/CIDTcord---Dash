@@ -1,1 +1,1 @@
-alert("Hola mundo");
+alert(document.getElementById("p1").firstChild.nodeValue);
